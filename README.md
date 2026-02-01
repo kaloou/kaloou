@@ -19,4 +19,4 @@
   🌐  <a href="https://github.com/kaloou">Portfolio (coming soon)</a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=kaloou&show_icons=true&cache_seconds=1"></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kaloou&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
